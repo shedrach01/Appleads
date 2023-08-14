@@ -2,6 +2,8 @@
 
 This project show how to build a page with a link and to design the page
 
+
+![sample](./img/applework.png)
 ## Background
 
 - CSS
